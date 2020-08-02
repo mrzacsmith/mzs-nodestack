@@ -1,0 +1,24 @@
+{
+  "name": "mzs-nodestack",
+  "version": "1.0.0",
+  "description": "All the standard MERN package dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrzacsmith/mzs-nodestack.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "MERN"
+  ],
+  "author": "Mr Zac Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrzacsmith/mzs-nodestack/issues"
+  },
+  "homepage": "https://github.com/mrzacsmith/mzs-nodestack#readme"
+}
