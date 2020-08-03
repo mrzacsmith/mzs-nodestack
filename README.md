@@ -12,3 +12,7 @@ Format:
 const server = express()
 nodeStack(server)
 ```
+
+### Goal
+
+- create a useful node package
