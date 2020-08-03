@@ -15,4 +15,7 @@ nodeStack(server)
 
 ### Goal
 
-- create a useful node package
+[ ] create a useful node package
+[ ] include standard node packages, so only invoke this one package is needed
+[ ] MERN standard packages
+[ ] make it easy to improve and update
